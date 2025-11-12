@@ -1,4 +1,4 @@
-# Exercícios - Lógica de Programação (UNINTER)
+# Lógica de Programação (UNINTER)
 
 ## 🎓 Faculdade
 Universidade Internacional – UNINTER<br>
